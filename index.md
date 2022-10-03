@@ -5,6 +5,7 @@
 ![Abishek](/screenshots/zor-102.jpg)
 
 **About Me**
+
 I attended Mission San Jose High school in *Fremont, California*. This past summer, I had the opportunity to work at Northrop Grumman as a Software Engineering Intern. 
 
 > "What puts companies out of business is the disruption they don't see coming."
